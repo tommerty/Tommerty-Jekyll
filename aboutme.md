@@ -13,10 +13,13 @@ My name is Tommy, I'm in my mid-late 20s, and I'm a frontend developer of person
 - [YouTube Channel Rewards](https://ytcr.gezel.io)
 
 ### My skills
+
 - HTML
 - TailwindCSS
 - Screaming at Copilot and ChatGPT to do Javascript for me
+
 ### My story
+
 I've always had a passion about computers and technology. At the age of 6 I "built" my first website which basically embedded my favourite games from the internet into one page so I didn't have to have a billion tabs open to play all my favourite games.
 Come the age of 18 I decided to get back into computers and as a musician at the time I wanted a way to build a website to host and sell music. I then got *very* ambitious and attempted to build something akin to BandCamp and failed terribly due to the fact that I was trying to do it all on WordPress and without a development bone in my body, I failed to achieve this using off the shelf plugins.
 
