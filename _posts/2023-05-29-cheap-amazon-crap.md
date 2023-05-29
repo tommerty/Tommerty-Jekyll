@@ -10,6 +10,7 @@ Where do I even begin with this? So at one stage of my life, I "aspired" to be a
 
 Skip forward 3 years, one of these lights crapped the bed. Completely gone. No worries however, I had a second. And with me mainly just using the light for Zoom calls in work and other needs, it actually did the job when I needed better lighting.
 
+This is where the problem comes into play... I always plugged the light into a USB port on my gaming laptop which I left at the side of my desk 24/7. This freed up ports on my USB dock on my Macbook Pro for other things. Little did I know however that this light was a damn ticking time bomb. 
 
 I was using the laptop, all was fine. I went to turn it off, and I noticed it started doing something odd. It had "powered off" at least out of Windows, but it kept a black screen and the LED light for the power button was still on. I thought not much of it, thought Windows was just being Windows, and held the button down to force it to power off. This was the last time I'd hear the stupidy loud fans spin.
 
